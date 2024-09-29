@@ -1,2 +1,3 @@
 navigation
 <li>ABOUT </li>
+<li>CONTACT </li>
