@@ -1,4 +1,4 @@
 navigation
-<li>ABOUT </li>
-<li>CONTACT </li>
+<li>ABOUT EMOJI SMILE</li>
+<li>PRODUCTS EMOJI ANGRY</li>
 <li>TEAM </li>
