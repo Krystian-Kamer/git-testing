@@ -1,7 +1,4 @@
 navigation
 <li>ABOUT EMOJI SMILE</li>
-<li>PRODUCTS EMOJI ANGRY</li>
-<li>TEAM </li>
-<li>Pułapki myślenia </li>
 <li>Finansowy Ninja </li>
 <li>Finansowa Forteca </li>
