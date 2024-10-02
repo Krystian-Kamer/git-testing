@@ -1,2 +1,4 @@
-Contact me YES PLZ
-<p> Testing git is sometimes simple and sometimes not </p>
+<p>Contact me YES PLZ </p>
+<p>Testing git is sometimes simple and sometimes not </p>
+<div class ="px-4"> Contact me PLZ </div>
+<div class ="px-10"> Testing conflicts </div>
