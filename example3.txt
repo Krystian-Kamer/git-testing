@@ -1,4 +1,4 @@
-navigation
-<li>ABOUT EMOJI SMILE</li>
+navigationS
+<li>ABOUT</li>
 <li>Finansowy Ninja </li>
 <li>Finansowa Forteca </li>
