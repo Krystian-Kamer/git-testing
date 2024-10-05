@@ -1,0 +1,7 @@
+div:nth-child(odd) {
+  background-color: red;
+}
+
+.word {
+  color: blue;
+}
